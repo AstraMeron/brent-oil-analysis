@@ -1,0 +1,23 @@
+# Data and Large Files
+data/
+*.csv
+*.xlsx
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.ipynb_checkpoints/
+
+# Frontend (React)
+frontend/node_modules/
+frontend/build/
+.eslintcache
+
+# OS Files
+.DS_Store
+Thumbs.db
+"@
