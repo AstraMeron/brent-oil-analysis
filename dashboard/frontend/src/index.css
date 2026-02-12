@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f7f6; /* Light gray background */
+  width: 100%;
+}
